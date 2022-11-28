@@ -1,0 +1,15 @@
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\bin\Debug\net6.0\GroupWeight.exe
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\bin\Debug\net6.0\GroupWeight.deps.json
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\bin\Debug\net6.0\GroupWeight.runtimeconfig.json
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\bin\Debug\net6.0\GroupWeight.dll
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\bin\Debug\net6.0\GroupWeight.pdb
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.csproj.AssemblyReference.cache
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.AssemblyInfoInputs.cache
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.AssemblyInfo.cs
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.dll
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\refint\GroupWeight.dll
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.pdb
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\GroupWeight.genruntimeconfig.cache
+C:\Users\ADmin\Documents\GitHub\GruopWeight\GroupWeight\GroupWeight\obj\Debug\net6.0\ref\GroupWeight.dll
